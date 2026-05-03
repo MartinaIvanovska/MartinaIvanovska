@@ -34,14 +34,6 @@ Django, Agent-Based Systems
 
 ---
 
-##  GitHub Stats
-
-![Stats](https://github-readme-stats.vercel.app/api?username=MartinaIvanovska&show_icons=true&theme=default)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=MartinaIvanovska&layout=compact)
-
----
-
 ##  How to reach me
 
 - GitHub: https://github.com/MartinaIvanovska  
